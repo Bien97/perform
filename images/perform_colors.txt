@@ -1,0 +1,24 @@
+Noir pal: #37464f
+Jaune : #fce420
+Jaune clair: #fef322
+Orange sombre: #fc863b
+Orange somble claire: #faa325
+Orange pal: #f9bc1e
+
+========================================================================
+Données Perform:
+
+Base de Donnee 
+
+User : qrxf9191_davie
+Psd : ]!41pfS228
+____
+FTP 
+
+User : davie@agence-perform.com
+Server : ftp.qrxf9191.odns.fr
+Port :  21
+Psd : @Det1k0p3
+
+Domaine:  agence-perform.com
+mysql://agence-perform.com/qrxf9191_davie
